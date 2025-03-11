@@ -63,9 +63,9 @@
 
 #define TURBO_ENABLED 1
 //#define GPIO_PIN_14 GpioAction::BUTTON_PRESS_TURBO
-#define TURBO_LED_PIN 15
+//#define TURBO_LED_PIN 15
 
-#define BOARD_LEDS_PIN 28
+//#define BOARD_LEDS_PIN 28
 #define LED_BRIGHTNESS_MAXIMUM 100
 #define LED_BRIGHTNESS_STEPS 5
 #define LED_FORMAT LED_FORMAT_GRB
@@ -86,7 +86,7 @@
 #define LEDS_BUTTON_A1   12
 #define LEDS_BUTTON_L3   13
 #define LEDS_BUTTON_R3   14
-#define LEDS_BUTTON_A2   15
+//#define LEDS_BUTTON_A2   15
 
 #define HAS_I2C_DISPLAY 1
 #define I2C0_ENABLED 1
