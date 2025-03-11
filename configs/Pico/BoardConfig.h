@@ -34,9 +34,9 @@
 
 // Setting GPIO pins to assigned by add-on
 //
-#define GPIO_PIN_27 GpioAction::ASSIGNED_TO_ADDON
-#define GPIO_PIN_28 GpioAction::ASSIGNED_TO_ADDON
-#define GPIO_PIN_29 GpioAction::ASSIGNED_TO_ADDON
+//#define GPIO_PIN_27 GpioAction::ASSIGNED_TO_ADDON
+//#define GPIO_PIN_28 GpioAction::ASSIGNED_TO_ADDON
+//#define GPIO_PIN_29 GpioAction::ASSIGNED_TO_ADDON
 //#define GPIO_PIN_28 GpioAction::ASSIGNED_TO_ADDON
 
 // Keyboard Mapping Configuration
